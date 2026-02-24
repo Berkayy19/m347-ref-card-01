@@ -1,4 +1,4 @@
-package ch.bbw.archictecturerefcard01;
+package ch.bbw.architecturerefcard01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,3 +11,4 @@ public class ArchitectureRefCard01Application {
     }
 
 }
+

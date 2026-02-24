@@ -1,4 +1,4 @@
-package ch.bbw.archictecturerefcard01;
+package ch.bbw.architecturerefcard01;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -24,3 +24,4 @@ public class HomeController {
     }
 
 }
+

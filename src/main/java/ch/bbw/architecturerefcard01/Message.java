@@ -1,4 +1,4 @@
-package ch.bbw.archictecturerefcard01;
+package ch.bbw.architecturerefcard01;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
